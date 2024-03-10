@@ -5,3 +5,11 @@ API-Documentation
 
 https://documenter.getpostman.com/view/33076355/2sA2xh3srb
 
+Endpoints
+➡️.GET'/get-allroom'
+➡️.POST'/hall-create'
+➡️.POST'/book-room'
+➡️.GET'/booked-room'
+➡️.GET'/book-count'
+➡️.GET '/Customer-Data'
+
