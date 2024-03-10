@@ -6,10 +6,12 @@ API-Documentation
 https://documenter.getpostman.com/view/33076355/2sA2xh3srb
 
 Endpoints
-➡️.GET'/get-allroom'
-➡️.POST'/hall-create'
-➡️.POST'/book-room'
-➡️.GET'/booked-room'
-➡️.GET'/book-count'
-➡️.GET '/Customer-Data'
+➡️.GET'/api/get-allroom'
+➡️.POST'/api/hall-create'
+➡️.POST'/api/book-room'
+➡️.GET'/api/booked-room'
+➡️.GET'/api/book-count'
+➡️.GET '/api/Customer-Data'
 
+Deploy Output:
+<img width="960" alt="image" src="https://github.com/yamuna-FSD-Developer/hall-booking/assets/150881590/96506a8e-e490-4c9e-bcbd-84732cd054ab">
